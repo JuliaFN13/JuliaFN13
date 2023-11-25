@@ -26,7 +26,10 @@
 | :-: | :-: |
 
 <div align="center">
-    <h1>☀️ Sobre mim!</h1>
+    <h1>☀️Sobre mim!</h1>  
+    <h3>“Trabalhe com o que você ama e nunca mais precisará trabalhar na vida.” - Confúcio</h3>
+    <img src="https://github.com/JuliaFN13/JuliaFN13/assets/151865390/ed4fa641-e4ea-4515-928a-62f3446aa1e9" width="200px"/>
+    <p>->Tenho 20 anos, faço faculdade de análise e desenvolvimento de sistemas e pretendo seguir na área de front-end com um pouquinho de cybersegurança. Atualmente trabalho como análista de suporte técnico, além disso tenho uma agência de marketing chamada ECO para auxiliar as empresas a ecoarem por aí! Gosto de design e sempre que posso participo de algum curso para aprimorar a minha técnica.</p>
     
 </div>
 
