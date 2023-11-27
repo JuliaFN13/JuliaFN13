@@ -26,7 +26,7 @@
     <img src="https://github.com/JuliaFN13/JuliaFN13/assets/151865390/ed4fa641-e4ea-4515-928a-62f3446aa1e9" width="200px"/>
     <p>->Tenho 20 anos, faço faculdade de análise e desenvolvimento de sistemas e pretendo seguir na área de front-end com um pouquinho de cybersegurança. Atualmente trabalho como análista de suporte técnico, além disso tenho uma agência de marketing chamada ECO para auxiliar as empresas a ecoarem por aí! Gosto de design e sempre que posso participo de algum curso para aprimorar a minha técnica.</p>
     <p>->Gosto de viajar e explorar coisas novas, pegar a estrada com uma música alta e cantar o mais alto que eu puder</p>
-    <p>->Adoro ler livros de romance, fanatasia e livros sobre a vida, é interessante pensar que podemos viver várias vidas em uma só.</p>
+    <p>->Adoro ler livros de romance, fanatasia e livros sobre a vida. É interessante pensar que podemos viver várias vidas em uma só.</p>
 </div>
 
 <div align="center" style = "display : inluine_block"></br>
@@ -36,6 +36,7 @@
     <img align= "center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align= "center" alt="JAVASCRIPT" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </div>
+<br>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuliaFN13&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuliaFN13&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuliaFN13&theme=dracula) | 
 | :-: | :-: | :-: |
